@@ -2,6 +2,10 @@
 
 A responsive To-Do Dashboard built with HTML, CSS, and JavaScript. The application helps users organise their daily activities by creating, updating, tracking, and managing tasks through a simple dashboard interface.
 
+## Live Demo
+
+[View Live To-Do Dashboard](https://liberty1703.github.io/saiket-task-05-todo-dashboard/)
+
 ## Features
 
 - **Add Tasks:** Create new tasks with a title, description, due date, and priority level.
